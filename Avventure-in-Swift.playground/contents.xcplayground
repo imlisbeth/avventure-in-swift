@@ -4,5 +4,6 @@
         <page name='0-12-optionals'/>
         <page name='0-13-optional-chaining'/>
         <page name='0-14-enumerations'/>
+        <page name='0-15-structs'/>
     </pages>
 </playground>
