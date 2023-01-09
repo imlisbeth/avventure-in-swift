@@ -5,6 +5,7 @@
         <page name='0-13-optional-chaining'/>
         <page name='0-14-enumerations'/>
         <page name='0-15-structs'/>
+        <page name='0-17-properties'/>
         <page name='0-16-classes'/>
     </pages>
 </playground>
